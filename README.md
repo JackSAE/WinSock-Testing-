@@ -1,2 +1,2 @@
 # WinSock-Testing-
-Playing around with WinWSock
+Playing around with WinSock
